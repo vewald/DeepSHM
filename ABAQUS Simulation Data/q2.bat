@@ -1,0 +1,1 @@
+call abaqus j=Damage02 input=Damage02.inp memory=16384 cpus=6 -seq
